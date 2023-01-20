@@ -1971,7 +1971,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #93ffe7;
+				background-color: #EE72F2;
 			}
 
 			input[type="submit"].primary:active,
@@ -1979,7 +1979,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #44f2cb;
+				background-color: #EE72F2;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -3353,7 +3353,7 @@ input, select, textarea {
 			}
 
 			#wrapper > section:last-of-type > header:after {
-				background: #43d9b8;
+				background: #a83793;
 				border-radius: 0.5rem;
 				bottom: -1.5rem;
 				content: '';
